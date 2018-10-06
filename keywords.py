@@ -13,8 +13,10 @@ def remove_stopwords(text):
 def ranked_keyword(text):
 	r = Rake()
 	r.extract_keywords_from_text(text)
-	return r.get_ranked_phrases_with_scores()[0:10]
+	ranked_keyword = r.get_ranked_phrases_with_scores()
 
-keywords = ranked_keyword(sample_text())
+	return len(ranked_keyword) < 50 and ranked_keyword or ranked_keyword[0:50]
 
-print(to_s(keywords))
+# keywords = ranked_keyword(sample_text())
+
+# print(to_s(keywords))
