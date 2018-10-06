@@ -2,7 +2,7 @@ from rake_nltk import Rake
 from nltk.corpus import stopwords 
 from nltk.tokenize import word_tokenize
 
-from config import print_list, sample_text
+from config import to_s, sample_text
 
 def remove_stopwords(text):
 	stop_words = set(stopwords.words('english')) 
@@ -17,4 +17,4 @@ def ranked_keyword(text):
 
 keywords = ranked_keyword(sample_text())
 
-print_list(keywords)
+print(to_s(keywords))
