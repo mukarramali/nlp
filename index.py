@@ -1,15 +1,19 @@
-from scrap import wikies
-from keywords import ranked_keyword
-from config import to_s
+from train import data_set
+from keywords import remove_stopwords
+from to_s import config
 
-topic = "Illusion"
+topic   = 'Illusion'
+f       = open("sample.txt", "r")
+article = f.read()
 
-topics, articles = wikies(topic)
+corpus, keywords = data_set(topic)
 
-corpus = []
+article_keywords = list(set(remove_stopwords(article)))
 
-for index in range(len(topics)):
-	keywords = ranked_keyword(articles[index])
-	corpus.append({'topic': topics[index], 'article': articles[index], 'keywords': keywords})
+def search(keywords, training_data):
+	count = 0
+	for key in keywords:
+		count += training_data.count(key)
+	return count
 
-print(to_s(corpus))
+ranking = search(article_keywords, to_s(keywords, " "))
