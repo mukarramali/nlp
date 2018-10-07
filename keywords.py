@@ -5,6 +5,7 @@ from nltk.tokenize import word_tokenize
 from config import to_s, sample_text
 
 def remove_stopwords(text):
+	print("=======Removing stopwords from new article========")
 	stop_words = set(stopwords.words('english')) 
 	word_tokens = word_tokenize(text) 	  
 	filtered_sentence = [w for w in word_tokens if not w in stop_words]
