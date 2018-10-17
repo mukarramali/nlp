@@ -1,3 +1,4 @@
+pip install nltk
 pip install rake-nltk
 python -c "import nltk; nltk.download('stopwords')"
 pip install newspaper
