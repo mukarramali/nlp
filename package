@@ -1,7 +1,8 @@
 pip install nltk
 pip install rake-nltk
 python -c "import nltk; nltk.download('stopwords')"
-pip install newspaper
+pip install newspaper3k
+pip install wikipedia
 pip install unicodedata
 pip install spacy
 //python -m spacy download en_core_web_lg
