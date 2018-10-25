@@ -1,6 +1,7 @@
 from string import digits
 from IPython import embed
 import matplotlib.pyplot as plt
+from beautifultable import BeautifulTable
 
 def list_s(list, delim = "\n"):
 	return delim.join(map(str,list))
@@ -14,6 +15,14 @@ def sample_text():
 
 def breakpoint():
 	embed()
+
+def draw_table(column2, column3):
+	table = BeautifulTable()
+	table.column_headers = ["key", "dataset", "article"]
+	for key in column3:
+		table.append_row([key, column2.get(key), column3.get(key)])
+	print(table)
+
 
 def draw_hash(pairs, title):
 	plt.bar(range(len(pairs)), list(pairs.values()), align='center')

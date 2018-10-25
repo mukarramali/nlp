@@ -1,7 +1,7 @@
 from wiki import wikies
 from keywords import ranked_keyword, filtered_keywords
 
-def data_set(topic):
+def dataset(topic):
 	topics, articles = wikies(topic)
 	corpus 			 = []
 	keywords         = []
