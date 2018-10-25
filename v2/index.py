@@ -1,17 +1,21 @@
-from train import data_set
+from train import dataset
 from keywords import filtered_keywords
 from evaluate import evaluate
-from utils import draw_hash
+from utils import draw_table
 import os
 
 topic   = 'Illusion'
 f       = open('sample_input.txt', 'r')
 article = f.read()
 
-corpus, data_set_keywords = data_set(topic)
-article_keywords          = filtered_keywords(article)
-tf_idf, avg_tf_idf        = evaluate(article_keywords, data_set_keywords)
-title                     = f'Avg tf-idf is {avg_tf_idf}'
+corpus, dataset_keywords = dataset(topic)
+article_keywords         = filtered_keywords(article)
+keywords_set             = dataset_keywords.append(article_keywords)
 
-print(tf_idf)
-draw_hash(tf_idf, title)
+avg_tf_idf_set, article_tf_idf_set = evaluate(dataset_keywords)
+
+print("=====avg_tf_idf_set=====")
+print(avg_tf_idf_set)
+print("=====article_tf_idf_set=====")
+print(article_tf_idf_set)
+draw_table(avg_tf_idf_set, article_tf_idf_set)

@@ -15,11 +15,19 @@ def tf_idf(key, keywords, data_set_keywords):
 	idf   = log(len(data_set_keywords)/search_in_docs(key, data_set_keywords))
 	return tf * idf
 
-def evaluate(keywords, data_set_keywords):
-	tf_idf_set = {}
-	avg_tfidf  = 0
-	for key in keywords:
-		if tf_idf_set.get(key) != None: continue
-		tf_idf_set[key]         = tf_idf(key, keywords, data_set_keywords)
-		avg_tfidf              += tf_idf_set[key]
-	return tf_idf_set, avg_tfidf/len(set(keywords))
+def normalize_avg_tf_idf(avg_tfidf_set, data_set_keywords):
+	for key in set(avg_tfidf_set):
+		avg_tfidf_set[key] = avg_tfidf_set[key]/search_in_docs(key, data_set_keywords)
+	return avg_tfidf_set
+
+def evaluate(data_set_keywords):
+	list_tf_idf_set = []
+	avg_tfidf_set   = {}
+	for article_keywords in data_set_keywords:
+		tf_idf_set = {}
+		for key in set(article_keywords):
+			tf_idf_set[key]     = tf_idf(key, article_keywords, data_set_keywords)
+			if avg_tfidf_set.get(key) == None: avg_tfidf_set[key] = 0
+			avg_tfidf_set[key] += tf_idf_set[key]
+		list_tf_idf_set.append(tf_idf_set)
+	return normalize_avg_tf_idf(avg_tfidf_set, data_set_keywords), list_tf_idf_set[-1]
