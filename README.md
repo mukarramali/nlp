@@ -15,423 +15,423 @@ python index.py
 
 +---------------+---------+---------+
 
-|      key      | dataset | article |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;key&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;dataset&nbsp;|&nbsp;article&nbsp;|
 
 +---------------+---------+---------+
 
-|     figur     |  0.505  |  0.606  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;figur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.505&nbsp;&nbsp;|&nbsp;&nbsp;0.606&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     bodi      |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bodi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     sourc     |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sourc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     organ     |  0.505  |  0.606  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.505&nbsp;&nbsp;|&nbsp;&nbsp;0.606&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     human     |  0.505  |  0.606  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;human&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.505&nbsp;&nbsp;|&nbsp;&nbsp;0.606&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|   principl    |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;principl&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    environ    |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;&nbsp;environ&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|      abl      |  0.866  |  1.299  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;abl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.866&nbsp;&nbsp;|&nbsp;&nbsp;1.299&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     refer     |   0.0   |   0.0   |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;refer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;0.0&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;0.0&nbsp;&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|      one      |  0.086  |  0.095  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;one&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.086&nbsp;&nbsp;|&nbsp;&nbsp;0.095&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     come      |  0.387  |  0.452  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;come&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.387&nbsp;&nbsp;|&nbsp;&nbsp;0.452&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     true      |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;true&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    within     |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;&nbsp;within&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     water     |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;water&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    wherea     |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;&nbsp;wherea&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    emphasi    |  0.866  |  1.299  |
+|&nbsp;&nbsp;&nbsp;&nbsp;emphasi&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.866&nbsp;&nbsp;|&nbsp;&nbsp;1.299&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     word      |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;word&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     mouth     |  0.866  |  1.299  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mouth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.866&nbsp;&nbsp;|&nbsp;&nbsp;1.299&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     dummi     |  0.866  |  1.299  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dummi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.866&nbsp;&nbsp;|&nbsp;&nbsp;1.299&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     base      |  0.505  |  0.606  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;base&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.505&nbsp;&nbsp;|&nbsp;&nbsp;0.606&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|   individu    |  0.505  |  0.606  |
+|&nbsp;&nbsp;&nbsp;individu&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.505&nbsp;&nbsp;|&nbsp;&nbsp;0.606&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     other     |  0.505  |  0.606  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;other&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.505&nbsp;&nbsp;|&nbsp;&nbsp;0.606&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     capac     |  0.866  |  1.299  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;capac&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.866&nbsp;&nbsp;|&nbsp;&nbsp;1.299&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     some      |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;some&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|      run      |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;run&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    stimul     |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;&nbsp;stimul&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|   constanc    |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;constanc&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    condit     |  0.866  |  1.299  |
+|&nbsp;&nbsp;&nbsp;&nbsp;condit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.866&nbsp;&nbsp;|&nbsp;&nbsp;1.299&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     occur     |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;occur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     optic     |  0.279  |  0.318  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;optic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.279&nbsp;&nbsp;|&nbsp;&nbsp;0.318&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     share     |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;share&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|   interpret   |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;interpret&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     would     |  0.178  |  0.201  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;would&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.178&nbsp;&nbsp;|&nbsp;&nbsp;0.201&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    sensat     |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;&nbsp;sensat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     voic      |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;voic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-| ventriloquist |  0.866  |  1.299  |
+|&nbsp;ventriloquist&nbsp;|&nbsp;&nbsp;0.866&nbsp;&nbsp;|&nbsp;&nbsp;1.299&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    normal     |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;&nbsp;normal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    describ    |  0.505  |  0.606  |
+|&nbsp;&nbsp;&nbsp;&nbsp;describ&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.505&nbsp;&nbsp;|&nbsp;&nbsp;0.606&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|  regardless   |  0.759  |  1.012  |
+|&nbsp;&nbsp;regardless&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    visual     |  0.178  |  0.201  |
+|&nbsp;&nbsp;&nbsp;&nbsp;visual&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.178&nbsp;&nbsp;|&nbsp;&nbsp;0.201&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    speech     |  0.852  |  1.705  |
+|&nbsp;&nbsp;&nbsp;&nbsp;speech&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.852&nbsp;&nbsp;|&nbsp;&nbsp;1.705&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    physic     |  0.279  |  0.318  |
+|&nbsp;&nbsp;&nbsp;&nbsp;physic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.279&nbsp;&nbsp;|&nbsp;&nbsp;0.318&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     unlik     |  0.505  |  0.606  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unlik&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.505&nbsp;&nbsp;|&nbsp;&nbsp;0.606&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     often     |  0.279  |  0.318  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;often&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.279&nbsp;&nbsp;|&nbsp;&nbsp;0.318&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    percept    |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;&nbsp;percept&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     sinc      |  0.178  |  0.201  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sinc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.178&nbsp;&nbsp;|&nbsp;&nbsp;0.201&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     watch     |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;watch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     term      |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;term&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    exampl     |  0.279  |  0.318  |
+|&nbsp;&nbsp;&nbsp;&nbsp;exampl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.279&nbsp;&nbsp;|&nbsp;&nbsp;0.318&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     these     |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;these&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     sens      |  0.505  |  0.606  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sens&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.505&nbsp;&nbsp;|&nbsp;&nbsp;0.606&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|      An       |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     work      |  0.279  |  0.318  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;work&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.279&nbsp;&nbsp;|&nbsp;&nbsp;0.318&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|   disambigu   |  0.866  |  1.299  |
+|&nbsp;&nbsp;&nbsp;disambigu&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.866&nbsp;&nbsp;|&nbsp;&nbsp;1.299&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    biolog     |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;&nbsp;biolog&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    sensori    |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;&nbsp;sensori&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     made      |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;made&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    organiz    |  0.866  |  1.299  |
+|&nbsp;&nbsp;&nbsp;&nbsp;organiz&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.866&nbsp;&nbsp;|&nbsp;&nbsp;1.299&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-| misinterpret  |  0.866  |  1.299  |
+|&nbsp;misinterpret&nbsp;&nbsp;|&nbsp;&nbsp;0.866&nbsp;&nbsp;|&nbsp;&nbsp;1.299&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    without    |  0.852  |  1.705  |
+|&nbsp;&nbsp;&nbsp;&nbsp;without&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.852&nbsp;&nbsp;|&nbsp;&nbsp;1.705&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     make      |  0.387  |  0.452  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;make&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.387&nbsp;&nbsp;|&nbsp;&nbsp;0.452&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     depth     |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;depth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|      may      |  0.387  |  0.452  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;may&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.387&nbsp;&nbsp;|&nbsp;&nbsp;0.452&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|   hallucin    |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;hallucin&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     dial      |  0.852  |  1.705  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.852&nbsp;&nbsp;|&nbsp;&nbsp;1.705&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|      for      |  0.279  |  0.318  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.279&nbsp;&nbsp;|&nbsp;&nbsp;0.318&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    stimulu    |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;&nbsp;stimulu&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     illus     |  -0.08  | -0.087  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;illus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;-0.08&nbsp;&nbsp;|&nbsp;-0.087&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    gestalt    |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;&nbsp;gestalt&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     form      |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;form&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    viewer     |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;&nbsp;viewer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    reveal     |  0.505  |  0.606  |
+|&nbsp;&nbsp;&nbsp;&nbsp;reveal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.505&nbsp;&nbsp;|&nbsp;&nbsp;0.606&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    assumpt    |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;&nbsp;assumpt&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    theori     |  0.505  |  0.606  |
+|&nbsp;&nbsp;&nbsp;&nbsp;theori&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.505&nbsp;&nbsp;|&nbsp;&nbsp;0.606&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|      the      |  -0.08  | -0.087  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;-0.08&nbsp;&nbsp;|&nbsp;-0.087&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    motion     |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;&nbsp;motion&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     sound     |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sound&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    realiti    |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;&nbsp;realiti&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     allus     |  0.852  |  1.705  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;allus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.852&nbsp;&nbsp;|&nbsp;&nbsp;1.705&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     hand      |  0.866  |  1.299  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hand&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.866&nbsp;&nbsp;|&nbsp;&nbsp;1.299&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     brain     |  0.505  |  0.606  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.505&nbsp;&nbsp;|&nbsp;&nbsp;0.606&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    mysteri    |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;&nbsp;mysteri&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|      use      |  0.086  |  0.095  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;use&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.086&nbsp;&nbsp;|&nbsp;&nbsp;0.095&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|   perceptu    |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;perceptu&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    absenc     |  0.866  |  1.299  |
+|&nbsp;&nbsp;&nbsp;&nbsp;absenc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.866&nbsp;&nbsp;|&nbsp;&nbsp;1.299&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|   structur    |  0.866  |  1.299  |
+|&nbsp;&nbsp;&nbsp;structur&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.866&nbsp;&nbsp;|&nbsp;&nbsp;1.299&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|   movement    |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;movement&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|      thi      |  0.279  |  0.318  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.279&nbsp;&nbsp;|&nbsp;&nbsp;0.318&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    vision     |  0.505  |  0.606  |
+|&nbsp;&nbsp;&nbsp;&nbsp;vision&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.505&nbsp;&nbsp;|&nbsp;&nbsp;0.606&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    distort    |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;&nbsp;distort&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     peopl     |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;peopl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     creat     |  0.505  |  0.606  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;creat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.505&nbsp;&nbsp;|&nbsp;&nbsp;0.606&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|   transpar    |  0.852  |  1.705  |
+|&nbsp;&nbsp;&nbsp;transpar&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.852&nbsp;&nbsp;|&nbsp;&nbsp;1.705&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     gener     |  0.505  |  0.606  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gener&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.505&nbsp;&nbsp;|&nbsp;&nbsp;0.606&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    outsid     |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;&nbsp;outsid&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    specif     |  0.387  |  0.452  |
+|&nbsp;&nbsp;&nbsp;&nbsp;specif&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.387&nbsp;&nbsp;|&nbsp;&nbsp;0.452&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|      see      |  0.178  |  0.201  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;see&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.178&nbsp;&nbsp;|&nbsp;&nbsp;0.201&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    though     |  0.387  |  0.452  |
+|&nbsp;&nbsp;&nbsp;&nbsp;though&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.387&nbsp;&nbsp;|&nbsp;&nbsp;0.452&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|  understood   |  0.866  |  1.299  |
+|&nbsp;&nbsp;understood&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.866&nbsp;&nbsp;|&nbsp;&nbsp;1.299&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    articl     |  0.852  |  1.705  |
+|&nbsp;&nbsp;&nbsp;&nbsp;articl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.852&nbsp;&nbsp;|&nbsp;&nbsp;1.705&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|    perceiv    |  0.387  |  0.452  |
+|&nbsp;&nbsp;&nbsp;&nbsp;perceiv&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.387&nbsp;&nbsp;|&nbsp;&nbsp;0.452&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|   auditori    |  0.631  |  0.788  |
+|&nbsp;&nbsp;&nbsp;auditori&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.631&nbsp;&nbsp;|&nbsp;&nbsp;0.788&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     hear      |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hear&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
-|     domin     |  0.759  |  1.012  |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;domin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0.759&nbsp;&nbsp;|&nbsp;&nbsp;1.012&nbsp;&nbsp;|
 
 +---------------+---------+---------+
 
