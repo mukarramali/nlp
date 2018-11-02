@@ -4,17 +4,17 @@ from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer, WordNetLemmatizer
 stemmer = PorterStemmer()
 
-def remove_stopwords(text):
+def remove_stopwords(words):
 	stop_words  = set(stopwords.words('english'))
-	word_tokens = word_tokenize(str(text))
-	return [w for w in word_tokens if not w in stop_words and w.isalpha()]
+	return [w for w in words if not w in stop_words and w.isalpha()]
 
 def stem(words):
 	if type(words) != list: words = [words]
 	return [stemmer.stem(w) for w in words]
 
 def filtered_keywords(text):
-	without_stopwords = remove_stopwords(text)
+	word_tokens       = word_tokenize(str(text))
+	without_stopwords = remove_stopwords(word_tokens)
 	keywords          = stem(without_stopwords)
 	return list(set(keywords))
 

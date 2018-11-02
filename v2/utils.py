@@ -17,12 +17,14 @@ def breakpoint():
 	embed()
 
 def draw_table(column2, column3):
+	diff  = 0
 	table = BeautifulTable()
 	table.column_headers = ["key", "dataset", "article"]
 	for key in column3:
+		diff += abs(float(column2.get(key)) - float(column3.get(key)))
 		table.append_row([key, column2.get(key), column3.get(key)])
 	print(table)
-
+	print("Average tf-idf distance error of the given article:{0}".format(diff/len(column3)))
 
 def draw_hash(pairs, title):
 	plt.bar(range(len(pairs)), list(pairs.values()), align='center')
